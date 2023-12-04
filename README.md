@@ -1,5 +1,7 @@
 # AnimeGANv2_Sharp
-
+## Nuget(standard2.0)
+NuGet\Install-Package AnimeGANv2_Onnx_Sharp -Version 1.0.0
+## Usage(UWP)
 ```csharp
 
       private async void MainPage_Loaded(object sender, RoutedEventArgs e)
